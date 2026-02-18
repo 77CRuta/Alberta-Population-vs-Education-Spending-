@@ -10,7 +10,7 @@ A multi-part data science project examining Alberta's dramatic population growth
 > **+82.8%** — Total education spending growth over the same period
 > **2.7×** — How much faster spending grew relative to population
 
-Alberta didn't just grow — it transformed. Over thirteen years, the province added more than **1.1 million people**, saw its share of Canada's national population nearly double, and simultaneously made a bet on education spending that far outpaced the pace of that growth. The charts below tell that story in full.
+Alberta didn't just grow -- its population exploded!  Over thirteen years, the province added more than **1.1 million people**, saw its share of Canada's national population nearly double, and simultaneously made a bet on education spending that far outpaced the pace of that growth. The charts below tell that story in full.
 
 ---
 
@@ -274,3 +274,4 @@ Alberta clearly chose to grow its education budget substantially faster than its
 
 *Population data: Statistics Canada, Table 17-10-0009-01.*
 *Spending data: Alberta Budget Fiscal Plans (Government of Alberta).*
+
