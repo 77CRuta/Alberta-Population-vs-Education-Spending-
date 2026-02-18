@@ -1,0 +1,27 @@
+Budget_Year,Fiscal_Year,Type,K12_Operating_Expense,PostSecondary_Operating_Expense,Source,Total_Education_Expense
+Budget 2012,2010-11,Actual,5609,2683,PDF,8292
+Budget 2012,2011-12,Forecast,5977,2780,PDF,8757
+Budget 2012,2012-13,Estimate,6179,2856,PDF,9035
+Budget 2012,2013-14,Target,6387,2983,PDF,9370
+Budget 2012,2014-15,Target,6625,3039,PDF,9664
+Budget 2013,2011-12,Actual,5946,2700,PDF,8646
+Budget 2013,2012-13,Forecast,6166,2782,PDF,8948
+Budget 2013,2013-14,Estimate,6210,2682,PDF,8892
+Budget 2013,2014-15,Target,6353,2728,PDF,9081
+Budget 2013,2015-16,Target,6546,2754,PDF,9300
+Budget 2023,2022-23,Budget,8403,5346,Excel,13749
+Budget 2023,2022-23 (F),Forecast,8477,5422,Excel,13899
+Budget 2023,2023-24,Estimate,8836,5604,Excel,14440
+Budget 2023,2024-25,Target,9036,5730,Excel,14766
+Budget 2023,2025-26,Target,9162,5862,Excel,15024
+Budget 2024,2023-24,Budget,8836,5779,Excel,14615
+Budget 2024,2023-24 (F),Forecast,8859,6116,Excel,14975
+Budget 2024,2024-25,Estimate,9252,6305,Excel,15557
+Budget 2024,2025-26,Target,9471,6471,Excel,15942
+Budget 2024,2026-27,Target,9561,6598,Excel,16159
+Budget 2025,2023-24,Actual,8878,6233,Excel,15111
+Budget 2025,2024-25,Budget,9252,6305,Excel,15557
+Budget 2025,2024-25 (F),Forecast,9457,6628,Excel,16085
+Budget 2025,2025-26,Estimate,9883,6635,Excel,16518
+Budget 2025,2026-27,Target,10285,6629,Excel,16914
+Budget 2025,2027-28,Target,10708,6629,Excel,17337
