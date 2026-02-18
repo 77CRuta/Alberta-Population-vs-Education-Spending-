@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(git restore:*)",
+      "Bash(python -c \"\nimport subprocess, os\nr = subprocess.run\\(\n    [''git'', ''cat-file'', ''blob'', ''91a98dc632c9b49e1161d83554548653aa0daeb4''],\n    capture_output=True,\n    cwd=''C:/Users/Casper Ruta/Desktop/Kacper Ruta 2026/Canada Population Predictions Main''\n\\)\nout_path = ''C:/Users/Casper Ruta/Desktop/Kacper Ruta 2026/Canada Population Predictions Main/Alberta Population Analysis and Predictions/17100009.csv''\nwith open\\(out_path, ''wb''\\) as f:\n    f.write\\(r.stdout\\)\nprint\\(f''Written {len\\(r.stdout\\)} bytes, {r.stdout.count\\(b\"\"Alberta\"\"\\)//10} approx Alberta rows''\\)\n\")",
+      "Bash(python:*)"
+    ]
+  }
+}
